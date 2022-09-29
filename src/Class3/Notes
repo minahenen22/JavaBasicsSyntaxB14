@@ -1,0 +1,29 @@
+Type Casting (primitive data types:
+
+Implicit / widening / automatic type casting
+    smaller date type to larger data type
+    
+Explicit / narrowing / manual type casting  
+    larger date type to smaller data type  
+    
+Why we learn type casting?
+    when we write code in our real life most of the time we use the code from other to save 
+    time (working on a time continuing someone else work)  convert data type to make our code compatible with their codes
+
+What is syntax type casting
+
+    ()
+    long var1=250
+    int var2=(int)var1; // explicit / narrowing / manual
+    double var3=var2; //  implicit / widening / automatic
+======================================================================================= 
+if else condition
+
+Syntax
+    boolean isHungry=true;
+    
+    if(isHungry){System.out.println("will buy food')}
+    else{ System.out.println("watch a movie")}
+    
+    
+ 
